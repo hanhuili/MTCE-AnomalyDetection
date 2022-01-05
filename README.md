@@ -1,7 +1,7 @@
 # MTCE-AnomalyDetection
 Codes for Hanhui Li, Xinggan Peng, Huiping Zhuang, Zhiping Lin. "Multiple Temporal Context Embedding Networks for Unsupervised Time Series Anomaly Detection", 2022
 
-## Introdution
+## Introduction
 This reposity demonstrates our proposed Multiple Temporal Context Embedding (MTCE) for unsupervised time series anomaly detection (AD), which can be considered as a flexible plug-in enhance current AD networks with temporal contexts. 
 
 ## Requirements
